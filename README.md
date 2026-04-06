@@ -7,7 +7,7 @@ TMDB API를 활용한 영화 검색 서비스입니다.
 
 ## 스크린샷
 - 1주차
-<img src="public/1-week.png" width="600" />
+<img src="public/1-week.png" width="400" />
 
 ## 기술 스택
 - React
