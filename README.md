@@ -9,6 +9,11 @@ TMDB API를 활용한 영화 검색 서비스입니다.
 - 1주차
 <img src="public/1-week.png" width="400" />
 
+- 2주차
+<img src="public/2-week-1.png" width="400">
+<img src="public/2-week-2.png" width="400">
+<img src="public/2-week-3.png" width="400">
+
 ## 기술 스택
 - React
 - Next.js
