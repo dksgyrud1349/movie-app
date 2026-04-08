@@ -3,7 +3,7 @@
 TMDB API를 활용한 영화 검색 서비스입니다.
 
 ## 배포 링크
-🔗 [배포 링크] (추후 Vercel 배포 후 추가)
+🔗 [배포 링크] https://movie-app-next-hdkd.vercel.app
 
 ## 스크린샷
 - 1주차
